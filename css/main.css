@@ -3,3 +3,12 @@ h1{
     padding: 1rem;
     color:aquamarine
 }
+h2{
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: blue;
+}
+h3{
+    background-color: brown;
+    font-size: 1 rem;
+}
